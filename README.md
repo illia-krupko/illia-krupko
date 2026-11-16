@@ -10,7 +10,7 @@
 
 ## About
 
-I build Java backend systems with a focus on API design, transaction boundaries, concurrency-safe persistence, security, and integration testing. Currently building **ChessTracker**, a chess-analysis platform using Spring Boot microservices, Kafka, Stockfish, and Gemini. Previously, I delivered **10+ client Android projects** and completed a Java Developer internship.
+I build Java backend systems with a focus on API design, transaction boundaries, concurrency-safe persistence, security, and integration testing. Currently building **ChessTracker**, a chess-analysis platform using Spring Boot microservices, Kafka, Stockfish, and Gemini. Previously, I was delivering Android apps for clients on freelance.
 
 **Core stack:** Java 17/21, Spring Boot, Spring Security, Spring Cloud Gateway, REST, JPA/Hibernate, PostgreSQL, Kafka, Liquibase, JUnit 5, Mockito, Testcontainers, Docker Compose, GitHub Actions, Gradle, Maven.
 
